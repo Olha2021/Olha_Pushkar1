@@ -8,3 +8,4 @@ class Greeter
 end
 # add comment
 # add new comment
+# add comment for rebase
